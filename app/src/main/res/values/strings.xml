@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas Video7</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="article_list">Article List</string>
+    <string name="create_article">Create Article</string>
+    <string name="tittle_create">Create Article</string>
+    <string name="hint_author">Author</string>
+    <string name="hint_article">Article</string>
+    <string name="hint_title">Tittle</string>
+    <string name="title_article_list">Tittle Article</string>
+</resources>
